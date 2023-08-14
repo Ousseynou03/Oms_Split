@@ -1,0 +1,10 @@
+{
+  "simulation": "SPLIT.OmsSplit",
+  "simulationId": "omssplit-20230814194608411",
+  "start": 1692042368956,
+  "description": "",
+  "scenarios": ["Test 1 - Mode Express avec Réservation & SGID", "Test 2 - Mode Express avec Réservation & Génération d'ID"],
+  "assertions": [
+
+  ]
+}

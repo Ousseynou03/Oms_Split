@@ -1,0 +1,7 @@
+RUN	SPLIT.OmsSplit	omssplit	1691885553541	 	3.9.5
+ERROR	post test 1: Failed to build request: No baseUrl defined but provided url is relative : /order-split-api/api/v1/split 	1691885556546
+USER	Test 1 - Mode Express avec Réservation & SGID	START	1691885556549
+ERROR	post test 1: Failed to build request: No attribute named '"commercial_cart_id"' is defined 	1691885556552
+USER	Test 2 - Mode Express avec Réservation & Génération d'ID	START	1691885556553
+USER	Test 1 - Mode Express avec Réservation & SGID	END	1691885557554
+USER	Test 2 - Mode Express avec Réservation & Génération d'ID	END	1691885557554

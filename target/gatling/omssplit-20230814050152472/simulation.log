@@ -1,0 +1,7 @@
+RUN	SPLIT.OmsSplit	omssplit	1691989312472	 	3.9.5
+ERROR	post test 1: Failed to build request: No baseUrl defined but provided url is relative : /order-split-api/api/v1/split 	1691989313826
+ERROR	post test 1: Failed to build request: No attribute named 'IdcartUnique' is defined 	1691989313831
+USER	Test 2 - Mode Express avec Réservation & Génération d'ID	START	1691989313832
+USER	Test 1 - Mode Express avec Réservation & SGID	START	1691989313832
+USER	Test 1 - Mode Express avec Réservation & SGID	END	1691989314835
+USER	Test 2 - Mode Express avec Réservation & Génération d'ID	END	1691989314836
