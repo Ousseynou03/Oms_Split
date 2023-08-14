@@ -1,7 +1,0 @@
-RUN	SPLIT.OmsSplit	omssplit	1692042295864	 	3.9.5
-ERROR	post test 1: Failed to build request: No baseUrl defined but provided url is relative : /order-split-api/api/v1/split/ 	1692042296425
-USER	Test 1 - Mode Express avec Réservation & SGID	START	1692042296428
-REQUEST		post test 2	1692042296439	1692042296440	KO	j.n.UnknownHostException: ws-oms-pp.galerieslafayette.com
-USER	Test 2 - Mode Express avec Réservation & Génération d'ID	START	1692042296443
-USER	Test 1 - Mode Express avec Réservation & SGID	END	1692042297433
-USER	Test 2 - Mode Express avec Réservation & Génération d'ID	END	1692042297444

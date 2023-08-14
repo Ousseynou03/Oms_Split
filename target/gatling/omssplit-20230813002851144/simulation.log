@@ -1,4 +1,0 @@
-RUN	SPLIT.OmsSplit	omssplit	1691886531144	 	3.9.5
-USER	Test 1 - Mode Express avec Réservation & SGID	START	1691886533069
-REQUEST		post test 1	1691886533065	1691886543071	KO	i.n.c.ConnectTimeoutException: connection timed out: ws-oms-pp.galerieslafayette.com/195.28.204.234:443
-USER	Test 1 - Mode Express avec Réservation & SGID	END	1691886544086
